@@ -1,1 +1,1 @@
-# Payroll-system
+I developed a comprehensive payroll system in C#, applying concepts of database management. The project includes multiuser security, specific roles, and features for generating detailed reports. Mobile access and data validations were implemented, ensuring robust and secure operation in a multiuser environment. Additionally, the system allows for data synchronization and automatic generation of backup and maintenance tasks in SQL Server.
